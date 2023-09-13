@@ -2,6 +2,8 @@
 Python code to create a Family Tree from collected pictures
 
 
+Use requirements.txt to setup python environment
+e.g. pip install -r requirements.txt
 
 **How to use:**
 
